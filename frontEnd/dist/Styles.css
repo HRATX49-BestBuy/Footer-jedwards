@@ -150,7 +150,7 @@
 
   box-sizing: border-box;
   width: 40px;
-  margin: 0 40px 0 -40px;
+  margin: 0 40px 0 10px;
 }
 
 .pipe {
@@ -255,10 +255,11 @@
   max-width: 25%;
   height: 324.4px;
   max-height: 324.4;
-
   padding-left: 15px;
 
 }
+
+
 
 .titleFooter {
 
@@ -283,7 +284,7 @@
   list-style-type: none;
   font-size: 13px;
   display: flex;
-  max-height: 320px;
+  max-height: 160px;
   flex-direction: column;
   padding-left: 0;
 
