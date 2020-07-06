@@ -13,7 +13,9 @@ class App extends Component {
       return (
 
         <div className="mainFooterContainer">
-          <Footer />
+          <div className="mainFooterWrapper">
+            <Footer />
+          </div>
         </div>
       )
 
