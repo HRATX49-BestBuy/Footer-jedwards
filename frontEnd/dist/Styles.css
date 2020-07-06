@@ -298,3 +298,37 @@
   text-align: -webkit-match-parent;
 
 }
+
+.bottomLineFooter {
+
+  border-bottom-color:rgb(197, 203, 213);
+  border-bottom-style:solid;
+  border-bottom-width:1px;
+  border-image-outset:0px;
+  border-image-repeat:stretch;
+  border-image-slice:100%;
+  border-image-source:none;
+  border-image-width:1;
+  border-left-color:rgb(197, 203, 213);
+  border-left-style:solid;
+  border-left-width:0px;
+  border-right-color:rgb(197, 203, 213);
+  border-right-style:solid;
+  border-right-width:0px;
+  border-top-color:rgb(197, 203, 213);
+  border-top-style:solid;
+  border-top-width:0px;
+  box-sizing:border-box;
+  color:rgb(4, 12, 19);
+  display:block;
+  font-family:'Nunito', Arial, Helvetica, sans-serif;
+  font-size:13px;
+  height:1px;
+  line-height:normal;
+  text-size-adjust:100%;
+  width: 100%;
+  max-width: 1200px;
+  margin-bottom: 15px;
+  margin: auto;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+}

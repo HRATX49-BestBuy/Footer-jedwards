@@ -110,7 +110,13 @@ const Footer = () => {
                             </ul>
                         </div>
                     </div>
+                    <span className="bottomLineFooter"></span>
                 </div>
+            </div>
+            
+            <div className="footerBottom">
+
+
             </div>
         </div>
     )
