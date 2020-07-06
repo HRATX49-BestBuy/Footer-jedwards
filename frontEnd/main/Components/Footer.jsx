@@ -130,10 +130,10 @@ const Footer = () => {
                     <p className="footerBottomP2">California Supply Chain Transparency Act</p>
                 </div>
                 <div className="footerSocialLinks">
-                    <i class="fab fa-facebook"></i>
-                    <i class="fab fa-twitter-square"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-pinterest"></i>
+                    <i className="fab fa-facebook"></i>
+                    <i className="fab fa-twitter-square"></i>
+                    <i className="fab fa-instagram"></i>
+                    <i className="fab fa-pinterest"></i>
                     <p className="mobileSite">Mobile Site</p>
                 </div>
                 <div className="copyright">Prices and offers are subject to change. © 2020 Best Buy. All rights reserved. BEST BUY, the BEST BUY logo, the tag design, MY BEST BUY, and BESTBUY.COM are trademarks of Best Buy and its affiliated companies.</div>
