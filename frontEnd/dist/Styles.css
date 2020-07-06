@@ -249,8 +249,8 @@
 .column {
   
   box-sizing: border-box;
-  /* display: inline-flex;
-  flex-direction: column; */
+  display: inline-flex;
+  flex-direction: column;
   min-width: 23%;
   max-width: 25%;
   height: 324.4px;
