@@ -18,6 +18,9 @@ const Footer = () => {
                                     <button className="footerButton">Sign up</button>
                                 </div>
                             </form>
+                            <div className="pipeContainer">
+                                <h1 className="pipe"> | </h1>
+                            </div>
                             <div className="deviceAppBlock">
                                 <div className="deviceIcon">
                                     <i>
