@@ -42,7 +42,7 @@ const Footer = () => {
                 <div className="innerLinksContainer">
 
                     {/* column 1 =============================== */}
-                    <div className="column">
+                    <div className="columnFooter">
                         <div className="myBestBuy">
                             <h3 className="titleFooter">My BestBuy</h3>
                             <ul className="ulFooter">
@@ -64,7 +64,7 @@ const Footer = () => {
                     </div>
 
                     {/* column 2 =============================== */}
-                    <div className="column">
+                    <div className="columnFooter">
                         <div className="ordersReturns">
                             <h3 className="titleFooter">Orders and Returns</h3>
                             <ul className="ulFooter">
@@ -77,7 +77,7 @@ const Footer = () => {
                     </div>
 
                     {/* column 3 =============================== */}
-                    <div className="column">
+                    <div className="columnFooter">
                         <div className="serviceSupport">
                             <h3 className="titleFooter">Service and Support</h3>
                             <ul className="ulFooter">
@@ -91,7 +91,7 @@ const Footer = () => {
                     </div>
 
                     {/* column 4 =============================== */}
-                    <div className="column">
+                    <div className="columnFooter">
                         <div className="partnerships">
                             <h3 className="titleFooter">Partnerships</h3>
                             <ul className="ulFooter">
